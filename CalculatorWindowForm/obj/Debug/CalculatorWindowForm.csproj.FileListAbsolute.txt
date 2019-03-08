@@ -7,3 +7,13 @@ c:\users\osama\documents\visual studio 2017\Projects\CalculatorWindowForm\Calcul
 c:\users\osama\documents\visual studio 2017\Projects\CalculatorWindowForm\CalculatorWindowForm\bin\Debug\CalculatorWindowForm.pdb
 c:\users\osama\documents\visual studio 2017\Projects\CalculatorWindowForm\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.exe
 c:\users\osama\documents\visual studio 2017\Projects\CalculatorWindowForm\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.pdb
+C:\Users\noraan\Documents\GitHub\Basic_Calculator\CalculatorWindowForm\bin\Debug\CalculatorWindowForm.exe.config
+C:\Users\noraan\Documents\GitHub\Basic_Calculator\CalculatorWindowForm\bin\Debug\CalculatorWindowForm.exe
+C:\Users\noraan\Documents\GitHub\Basic_Calculator\CalculatorWindowForm\bin\Debug\CalculatorWindowForm.pdb
+C:\Users\noraan\Documents\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.csprojAssemblyReference.cache
+C:\Users\noraan\Documents\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.Form1.resources
+C:\Users\noraan\Documents\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.Properties.Resources.resources
+C:\Users\noraan\Documents\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.csproj.GenerateResource.cache
+C:\Users\noraan\Documents\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.csproj.CoreCompileInputs.cache
+C:\Users\noraan\Documents\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.exe
+C:\Users\noraan\Documents\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.pdb

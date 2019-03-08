@@ -19,17 +19,42 @@ namespace CalculatorWindowForm
 
         decimal n1,n2,result;
         char op;
-        Boolean operated = false;
+        Boolean operated = false, equaled=false;
         private void numbers(object sender, EventArgs e)
         {
             Button numbtn = (Button)sender;
-            //if (operated)
-            //    n2 = decimal.Parse(window.Text);
-            if (window.Text == "0" || !string.IsNullOrEmpty(window.Text) &&op==null )
+            
+            if (window.Text == "0" || !string.IsNullOrEmpty(window.Text) &&op==null || operated )
                 window.Clear();
-            if (operated == true)
-                window.Clear();
-            window.Text += numbtn.Text;             
+            window.Text += numbtn.Text;
+            if (operated == false)
+            {
+                n1 = decimal.Parse(window.Text);
+                result = n1;
+            }
+            else
+            {
+                n2 = decimal.Parse(window.Text);
+                switch (op)
+                {
+                    case '+':
+                        result += n2;
+                        break;
+                    case '-':
+                        result -= n2;
+                        break;
+                    case '*':
+                        result *= n2;
+                        break;
+                    case '/':
+                        if(n2==0)
+                            window.Text="Division by zero";
+                        else 
+                            result /=n2;
+                        break;
+                }
+                
+            }
             operated = false;
             
         }
@@ -40,7 +65,7 @@ namespace CalculatorWindowForm
             if (!string.IsNullOrEmpty(window.Text))
             {
 
-                n1 = decimal.Parse(window.Text);
+                
                 switch (operbtn.Text)
                 {
                     case "+":
@@ -84,24 +109,9 @@ namespace CalculatorWindowForm
 
         private void equal_Click(object sender, EventArgs e)
         {
-            n2= decimal.Parse(window.Text);
-            //result=0;
-            switch (op)
-            {
-                case '+':
-                    result = n1 + n2;
-                    break;
-                case '-':
-                    result = n1 - n2;
-                    break;
-                case '*':
-                    result = n1 * n2;
-                    break;
-                case '/':
-                    result = n1 /n2;
-                    break;
-            }
+            
             window.Text = result.ToString();
+            
         }
     }
 }
