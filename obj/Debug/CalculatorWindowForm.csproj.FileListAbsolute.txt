@@ -1,0 +1,9 @@
+c:\users\osama\documents\visual studio 2017\Projects\CalculatorWindowForm\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.csprojResolveAssemblyReference.cache
+c:\users\osama\documents\visual studio 2017\Projects\CalculatorWindowForm\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.Form1.resources
+c:\users\osama\documents\visual studio 2017\Projects\CalculatorWindowForm\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.Properties.Resources.resources
+c:\users\osama\documents\visual studio 2017\Projects\CalculatorWindowForm\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.csproj.GenerateResource.Cache
+c:\users\osama\documents\visual studio 2017\Projects\CalculatorWindowForm\CalculatorWindowForm\bin\Debug\CalculatorWindowForm.exe.config
+c:\users\osama\documents\visual studio 2017\Projects\CalculatorWindowForm\CalculatorWindowForm\bin\Debug\CalculatorWindowForm.exe
+c:\users\osama\documents\visual studio 2017\Projects\CalculatorWindowForm\CalculatorWindowForm\bin\Debug\CalculatorWindowForm.pdb
+c:\users\osama\documents\visual studio 2017\Projects\CalculatorWindowForm\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.exe
+c:\users\osama\documents\visual studio 2017\Projects\CalculatorWindowForm\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.pdb
