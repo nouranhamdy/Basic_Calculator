@@ -26,7 +26,8 @@ namespace CalculatorWindowForm
             
             if (window.Text == "0" || !string.IsNullOrEmpty(window.Text) &&op==null || operated )
                 window.Clear();
-            window.Text += numbtn.Text;
+            window.
+                Text += numbtn.Text;
             if (operated == false)
             {
                 n1 = decimal.Parse(window.Text);
@@ -56,7 +57,7 @@ namespace CalculatorWindowForm
                 
             }
             operated = false;
-            
+            //window.Text = result.ToString();
         }
 
         private void oper(object sender, EventArgs e)
@@ -83,11 +84,6 @@ namespace CalculatorWindowForm
                 }
                 operated = true;
             }
-        }
-
-        private void clearbtn(object sender, EventArgs e)
-        {
-            window.Clear();
         }
 
         private void window_TextChanged(object sender, EventArgs e)

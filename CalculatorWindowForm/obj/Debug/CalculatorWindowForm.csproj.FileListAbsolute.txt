@@ -17,3 +17,12 @@ C:\Users\noraan\Documents\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug
 C:\Users\noraan\Documents\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.csproj.CoreCompileInputs.cache
 C:\Users\noraan\Documents\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.exe
 C:\Users\noraan\Documents\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.pdb
+E:\nada\GitHub\Basic_Calculator\CalculatorWindowForm\bin\Debug\CalculatorWindowForm.exe.config
+E:\nada\GitHub\Basic_Calculator\CalculatorWindowForm\bin\Debug\CalculatorWindowForm.exe
+E:\nada\GitHub\Basic_Calculator\CalculatorWindowForm\bin\Debug\CalculatorWindowForm.pdb
+E:\nada\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.csprojResolveAssemblyReference.cache
+E:\nada\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.Form1.resources
+E:\nada\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.Properties.Resources.resources
+E:\nada\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.csproj.GenerateResource.Cache
+E:\nada\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.exe
+E:\nada\GitHub\Basic_Calculator\CalculatorWindowForm\obj\Debug\CalculatorWindowForm.pdb
